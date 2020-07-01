@@ -1,0 +1,17 @@
+{
+  "name": "shorter-hash",
+  "version": "1.0.0",
+  "description": "Wrapper on hash-string to generate very short alphanumeric strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "hash"
+  ],
+  "author": "Jitendra Pal Thethi",
+  "license": "MIT",
+  "dependencies": {
+    "hash-string": "^1.0.0"
+  }
+}
